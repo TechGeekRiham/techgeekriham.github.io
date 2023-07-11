@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/techgeekriham.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/techgeekriham.github.io/static/js/main.1fdd2f4d.js",
-    "static/js/787.c53f2712.chunk.js": "/techgeekriham.github.io/static/js/787.c53f2712.chunk.js",
-    "static/media/logo.svg": "/techgeekriham.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/techgeekriham.github.io/index.html",
-    "main.073c9b0a.css.map": "/techgeekriham.github.io/static/css/main.073c9b0a.css.map",
-    "main.1fdd2f4d.js.map": "/techgeekriham.github.io/static/js/main.1fdd2f4d.js.map",
-    "787.c53f2712.chunk.js.map": "/techgeekriham.github.io/static/js/787.c53f2712.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.82563784.js",
+    "static/js/787.c53f2712.chunk.js": "/static/js/787.c53f2712.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.82563784.js.map": "/static/js/main.82563784.js.map",
+    "787.c53f2712.chunk.js.map": "/static/js/787.c53f2712.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1fdd2f4d.js"
+    "static/js/main.82563784.js"
   ]
 }
